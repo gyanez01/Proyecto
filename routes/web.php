@@ -14,6 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('principal', function () {
+Route::get('CorregirConflictos', function () {
     return view('PaginaPrincipal');
 });
