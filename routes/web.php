@@ -17,3 +17,4 @@ Route::get('/', function () {
 Route::get('paginaPrincipal', function () {
     return view('PaginaPrincipal');
 });
+//resolucion de conflictos
