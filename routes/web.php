@@ -14,6 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('Paginaprincipal', function () {
+Route::get('paginaPrincipal', function () {
     return view('PaginaPrincipal');
 });
