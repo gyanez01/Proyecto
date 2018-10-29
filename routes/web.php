@@ -14,3 +14,8 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('paginaPrincipal', function () {
+    return view('PaginaPrincipal');
+});
+//resolucion de conflictos
+//satan
