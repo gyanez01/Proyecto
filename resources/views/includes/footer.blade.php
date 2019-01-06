@@ -11,7 +11,7 @@
 </style>
 
 <div class="footer">
-<div id="copyright text-right">© Copyright 2018 LTIC</div>
+<div id="copyright text-right">2019</div>
 </div>
 
 
